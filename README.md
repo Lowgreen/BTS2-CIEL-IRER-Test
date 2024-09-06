@@ -21,4 +21,14 @@ for (int i = 0; i < 4 ; i++)
 }
 ```
 
+```Java
+
+void main()
+{
+    System.out.println("Hello World !")
+}
+
+
+```
 [salut](https://github.com/Lowgreen/BTS2-CIEL-IRER-Test)
+
